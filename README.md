@@ -1,4 +1,4 @@
-# epitech_get_next_line
+# get_next_line
 get_next_line is a function that returns a read line from a file descriptor.
 
 # usage
